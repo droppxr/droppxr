@@ -12,4 +12,4 @@ Sou um desenvolvedor focado em criar soluções eficientes e aprender novas tecn
 ![Status do GitHub](https://github-readme-stats-fast.vercel.app/api?username=droppxr&show_icons=true&theme=vision-friendly-dark&icon_color=ffb000&custom_title=@droppxr) ![Status do GitHub](https://github-readme-stats-fast.vercel.app/api/streak/?username=droppxr&theme=vision-friendly-dark)
 
 ---
-📫 **Como me encontrar:** [INSTAGRAM](https://instagram.com/droppxr)
+📫 **Como me encontrar:** [INSTAGRAM](https://instagram.com/gabrieldroppxr)
