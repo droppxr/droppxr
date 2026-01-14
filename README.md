@@ -9,12 +9,7 @@ Sou um desenvolvedor focado em criar soluções eficientes e aprender novas tecn
 - **Ferramentas:** Git, VS Code
 
 ### 📈 Estatísticas do GitHub
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=droppxr&show_icons=true&theme=radical)
+![Status do GitHub](https://github-readme-stats-fast.vercel.app/api?username=droppxr&show_icons=true&theme=vision-friendly-dark&icon_color=ffb000&custom_title=@droppxr) ![Status do GitHub](https://github-readme-stats-fast.vercel.app/api/streak/?username=droppxr&theme=vision-friendly-dark)
 
 ---
-📫 **Como me encontrar:** [instagram.com/droppxr]
-
-<!---
-droppxr/droppxr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 **Como me encontrar:** [INSTAGRAM](https://instagram.com/droppxr)
